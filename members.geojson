@@ -23,7 +23,16 @@
         "type": "Point",
         "coordinates": [110, -7.3]
       }
-    }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "nama": "Audita",
+        "alamat": "Jakarta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [106.84560, -6.20876]
+      }
 
   ]
 }

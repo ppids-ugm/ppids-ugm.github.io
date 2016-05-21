@@ -23,6 +23,16 @@
         "type": "Point",
         "coordinates": [116.52559, -8.90188]
       }
+    }, {
+      "type": "Feature",
+      "properties": {
+        "nama": "Muhammad Irham Akbar",
+        "alamat": "Cirebon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [108.5523164, -6.7320229]
+      }
     }
 
   ]

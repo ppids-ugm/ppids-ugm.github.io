@@ -23,7 +23,19 @@
         "type": "Point",
         "coordinates": [116.52559, -8.90188]
       }
+    },
+	 {
+      "type": "Feature",
+      "properties": {
+        "nama": "Mufti",
+        "alamat": "Surakarta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.82433, -7.57549]
+      }
     }
+
 
   ]
 }

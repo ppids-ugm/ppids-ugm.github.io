@@ -23,6 +23,17 @@
         "type": "Point",
         "coordinates": [110, -7.3]
       }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama": "dummy",
+        "alamat": "antahberantah"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.36949, -7.79558]
+      }
     }
 
   ]

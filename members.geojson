@@ -23,7 +23,17 @@
         "type": "Point",
         "coordinates": [116.52559, -8.90188]
       }
+    },
+	{
+      "type": "Feature",
+      "properties": {
+        "nama": "Dwi Septri Hastuti",
+        "alamat": "Buluspesantren, Kebumen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [109.6997261, -7.7739305]
+      }
     }
-
   ]
 }

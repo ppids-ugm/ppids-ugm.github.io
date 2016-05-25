@@ -36,4 +36,14 @@
       }
 
   ]
-}
+},
+{
+  "type": "Feature",
+  "properties": {
+    "nama": "dummy",
+    "alamat": "antahberantah"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [104.77543, -2.97607]
+  }
